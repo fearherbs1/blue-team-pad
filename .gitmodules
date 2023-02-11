@@ -1,0 +1,8 @@
+[submodule "PCB/Libraries/marbastlib"]
+	path = PCB/Libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib
+	branch = main
+[submodule "kbd"]
+	path = path = PCB/Libraries/foostan/kbd
+	url = https://github.com/foostan/kbd
+	branch = main

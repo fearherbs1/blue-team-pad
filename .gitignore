@@ -1,0 +1,7 @@
+.DS_STORE
+PCB/BlueTeamPad/*-backups/
+PCB/BlueTeamPad/_autosave-*
+PCB/BlueTeamPad/*.kicad_sch-bak
+PCB/BlueTeamPad/*.kicad_pcb-bak
+PCB/BlueTeamPad/#auto_saved_files#
+PCB/BlueTeamPad/#auto_saved_files\#
