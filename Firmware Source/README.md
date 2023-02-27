@@ -1,0 +1,1 @@
+This folder only contains the source code for each firmware. To download pre-compiled firmware files, please visit the "Releases" page of this repository.
